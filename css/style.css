@@ -82,9 +82,9 @@ td{
   color: #FFFFFF;
   padding: 10px;
   vertical-align: center;
-  margin: 0 auto;
+  margin: auto;
   background-color: #7e0820;
-  width: 125px;
+  min-width: 125px;
   text-transform: uppercase;
 
 }
@@ -130,7 +130,8 @@ footer{
   background:#000000;
   text-align:center;
   color: #FFFFFF;
-  position: absolute;
+  position: fixed;
   min-height: 75px;
+  bottom: 0;
 }
 
