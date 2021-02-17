@@ -81,17 +81,16 @@ td{
 .colhead{
   color: #FFFFFF;
   padding: 10px;
-  vertical-align: center;
-  margin: auto;
+  align-items: center;
   background-color: #7e0820;
   min-width: 125px;
   text-transform: uppercase;
-
 }
 /*Req 6c*/
 .rowhead{
   border-top:2px solid #000000;
   border-right: 2px solid #000000;
+  padding: 10px;
 }
 
 /*Req 6d*/
@@ -133,5 +132,6 @@ footer{
   position: fixed;
   min-height: 75px;
   bottom: 0;
+  left: 0;
 }
 
