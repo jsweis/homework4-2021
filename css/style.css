@@ -81,7 +81,8 @@ td{
 .colhead{
   color: #FFFFFF;
   padding: 10px;
-  align-items: center;
+  vertical-align: middle;
+  margin: auto;
   background-color: #7e0820;
   min-width: 125px;
   text-transform: uppercase;
